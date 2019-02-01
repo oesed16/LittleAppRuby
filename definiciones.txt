@@ -30,3 +30,4 @@ redux
 
 Serie de pasos que se utilizan para solucionar un problema o realizar alguna tarea específica.
 algoritmo
+FIN
