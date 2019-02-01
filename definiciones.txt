@@ -1,0 +1,32 @@
+Un tipo de archivo en el que todos los valores están delimitados por comas.
+csv
+
+Formato básico de los documentos que componen las páginas web, está basado en etiquetas y sirve para estructurar la forma de mostrar los contenidos de las páginas.
+html
+
+Protocolo basado en TCP/IP a través del cual el navegador realiza peticiones al servidor para que éste responda.
+http
+
+Parte de una URL (dirección web), que contiene datos adicionales para la página que se solicita.
+query string
+
+Lenguaje de programación creado en 1993 por un Japonés llamado Yukihiro Matsumoto.
+ruby
+
+Librería escrita en JavaScript que permite manipular HTML, escuchar eventos del mouse, el teclado, etc, y realizar llamados a servidores remotos con AJAX para crear aplicaciones Web dinámicas.
+jquery
+
+Librería de Ruby de código abierto para crear aplicaciones y API's Web.
+sinatra
+
+Colección estructurada de datos, organizada para ser fácil de acceder y manipular.
+base de datos
+
+Framework más popular para crear aplicaciones Web en Ruby, creado por David Heinemeier Hansson en 2003.
+ruby on rails
+
+Librería que nos permite definir un estado compartido para todos los componentes de una aplicación desarrollada en React.
+redux
+
+Serie de pasos que se utilizan para solucionar un problema o realizar alguna tarea específica.
+algoritmo
